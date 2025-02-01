@@ -47,13 +47,13 @@ vsim -c -do "run -all" Lab4_tb
 
 ---
 
-## 📌 Issues Encountered  
+##  Issues Encountered  
 - **Clock Cycle Mismatch** – Original timing was off by 1-2 cycles, corrected through adjustments.  
 - **Always Comb Block Gaps** – Some wires were missing assignments in certain cases, leading to Quartus issues.  
 - **Complex Top-Level View** – The schematic turned out unexpectedly complex and needed debugging.  
 
 ---
 
-## 👨‍💻 Contributors  
+##  Contributors  
 - **Joachim Galil**  
 - **Sean King** 
